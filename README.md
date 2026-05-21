@@ -1,40 +1,40 @@
-# Dream Home UI 🏠
+# Dream Home UI
 
-A beautiful and interactive dream home UI showcase built with HTML, CSS, and vanilla JavaScript.
+A simple modern dream home website UI built using HTML and CSS.
 
-## Features ✨
+## Features
 
-- **Dark Theme Design** - Modern and sleek dark interface
-- **Interactive Rooms** - Click on any room to see an alert
-- **Responsive Layout** - 2x2 grid layout for all rooms
-- **Smooth Animations** - Hover effects on room cards
-- **Lightweight** - No dependencies, pure vanilla JavaScript
+- Clean modern interface
+- Room layout sections
+- Responsive design
+- Simple and beginner-friendly code
+- Interactive room selection
 
-## Rooms 🏘️
-
-- Living Room
-- Kitchen
-- Bedroom
-- Bathroom
-
-## How to Use 🚀
-
-1. Clone this repository
-2. Open `index.html` in your web browser
-3. Click on any room to interact with it
-
-## Files 📁
-
-- `index.html` - Main HTML structure
-- `styles.css` - Styling and animations
-- `script.js` - JavaScript interactivity
-
-## Technologies Used 🛠️
+## Technologies Used
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
----
+## Preview
 
-Made with ❤️ by khaleedabdullahi4897
+This project is hosted using GitHub Pages.
+
+## Purpose
+
+This project was created for learning and practicing frontend web development.
+
+## Future Improvements
+
+- Add 2.5D room visualization
+- Add animations
+- Improve mobile responsiveness
+- Add interactive room editing
+
+## Author
+
+Khaleed Abdullahi
+
+## License
+
+MIT License - See LICENSE file for details
